@@ -14,8 +14,8 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me
 
 - 🎓 Final Year **B.Tech (Information Technology)** student at **JSS Academy of Technical Education, Noida**
-- 💻 **Full Stack Developer (MERN & Spring Boot)** with strong backend focus
-- 💬 Ask me about **DSA, Backend APIs, MERN Stack, Spring Boot**
+- 💻 **Full Stack Developer (Spring Boot)** with strong backend focus
+- 💬 Ask me about **DSA, Backend APIs, Spring Boot**
 
 ---
 <h2 align="left">I code with</h2>
